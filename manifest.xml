@@ -7,7 +7,7 @@
 		<type>package</type>
 		<version>1.0.0</version>
 		<client>site</client>
-		<infourl title="REVE Chat Extension Package">https://www.revechat.com/integrations/joomla/</infourl>
+		<infourl title="REVE Chat Extension">https://www.revechat.com/integrations/joomla/</infourl>
 		<downloads>
 			<downloadurl type="full" format="zip">http://www.revechat.com/plugins/joomla/pkg_revechat_v2.5.zip</downloadurl>
 		</downloads>
